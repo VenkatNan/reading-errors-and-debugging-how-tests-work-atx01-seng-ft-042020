@@ -4,3 +4,4 @@ second_number =7
 
 sum = 10
 difference = -4
+product = 21
