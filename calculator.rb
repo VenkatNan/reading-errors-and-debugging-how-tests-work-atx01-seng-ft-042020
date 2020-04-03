@@ -5,4 +5,4 @@ second_number = 3
 sum = 9
 difference = 3
 product = 18
-quoticent = 2
+quotient = 2
