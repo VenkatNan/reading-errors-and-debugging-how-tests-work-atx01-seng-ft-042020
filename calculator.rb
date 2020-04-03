@@ -1,6 +1,6 @@
 # Add your variables here
-first_number=3
-second_number = 6
+first_number=6
+second_number = 3
 
 sum = 9
 difference = -3
